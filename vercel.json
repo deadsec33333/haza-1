@@ -6,7 +6,11 @@
       },
       {
         "source": "/business/jan-oct-international-trade-almost-matches-2023-total",
-        "destination": "/jan-oct-international-trade-almost-matches-2023-total.html"
+        "destination": "/business/jan-oct-international-trade-almost-matches-2023-total.html"
+      },
+      {
+        "source": "/national/gov-t-aims-to-extend-social-protection-to-88-of-informal-workers-by-2028",
+        "destination": "/national/gov-t-aims-to-extend-social-protection-to-88-of-informal-workers-by-2028.html"
       }
     ]
   }
